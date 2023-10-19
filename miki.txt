@@ -13,3 +13,7 @@ Izmena koja nije na grani4
 Izmena koja nije na main2
 4
 Izmena koja nije na grani5
+5
+Izmena koja nije na main3
+5
+Dodatne izmene koje nisu na main3
