@@ -19,3 +19,6 @@ Izmena koja nije na main3
 Dodatne izmene koje nisu na main3
 9
 imene koje nisu nigde osim na main
+6
+Izmene koje nisu na main
+
