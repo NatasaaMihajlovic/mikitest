@@ -7,5 +7,8 @@ Izmena koja nije na main
 Izmena koja nije na grani3
 3
 Prihvatio izmene sa main
+3
+Izmena koja nije na grani4
 4
 Izmena koja nije na main2
+
