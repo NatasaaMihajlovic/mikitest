@@ -4,3 +4,5 @@ Izmena koja nije na grani1
 5
 Izmena koja nije na grani2
 5
+Izmena koja nije na main
+milan..
