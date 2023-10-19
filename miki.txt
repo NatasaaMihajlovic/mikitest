@@ -17,3 +17,5 @@ Izmena koja nije na grani5
 Izmena koja nije na main3
 5
 Dodatne izmene koje nisu na main3
+6
+Izmene koje nisu na main
